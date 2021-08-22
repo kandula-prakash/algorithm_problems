@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\AlgorithmProblems\AlgorithmProblems\bin\Debug\netcoreapp3.1\AlgorithmProblems.exe
+C:\Users\prakash kandula\source\repos\AlgorithmProblems\AlgorithmProblems\bin\Debug\netcoreapp3.1\AlgorithmProblems.deps.json
+C:\Users\prakash kandula\source\repos\AlgorithmProblems\AlgorithmProblems\bin\Debug\netcoreapp3.1\AlgorithmProblems.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\AlgorithmProblems\AlgorithmProblems\bin\Debug\netcoreapp3.1\AlgorithmProblems.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\AlgorithmProblems\AlgorithmProblems\bin\Debug\netcoreapp3.1\AlgorithmProblems.dll
+C:\Users\prakash kandula\source\repos\AlgorithmProblems\AlgorithmProblems\bin\Debug\netcoreapp3.1\AlgorithmProblems.pdb
+C:\Users\prakash kandula\source\repos\AlgorithmProblems\AlgorithmProblems\obj\Debug\netcoreapp3.1\AlgorithmProblems.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\AlgorithmProblems\AlgorithmProblems\obj\Debug\netcoreapp3.1\AlgorithmProblems.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\AlgorithmProblems\AlgorithmProblems\obj\Debug\netcoreapp3.1\AlgorithmProblems.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\AlgorithmProblems\AlgorithmProblems\obj\Debug\netcoreapp3.1\AlgorithmProblems.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\AlgorithmProblems\AlgorithmProblems\obj\Debug\netcoreapp3.1\AlgorithmProblems.dll
+C:\Users\prakash kandula\source\repos\AlgorithmProblems\AlgorithmProblems\obj\Debug\netcoreapp3.1\AlgorithmProblems.pdb
+C:\Users\prakash kandula\source\repos\AlgorithmProblems\AlgorithmProblems\obj\Debug\netcoreapp3.1\AlgorithmProblems.genruntimeconfig.cache
